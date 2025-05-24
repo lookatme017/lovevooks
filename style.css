@@ -1,0 +1,26 @@
+body{background-color:#888;}
+img{border-radius:50px;
+width:300px; height:400px;}
+button{font-size:25px;
+margin:30px; font-style:italic;
+border-radius:10px;
+background-color:orange;
+margin-top:70px;
+color:white;}
+h6{font-style:italic;
+padding-top:90px;}
+p{font-size:15px;
+font-family:trebuchet MS;
+font-style:italic;}
+.disclaimer{font-size:12px;
+color:#888;}
+.container {
+  max-width: 600px;
+  margin: 40px auto;
+  background:#fff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+}}
+}
